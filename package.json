@@ -1,0 +1,23 @@
+{
+  "name": "project-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "projectGenerator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Pierce/Project-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-Pierce/Project-Generator/issues"
+  },
+  "homepage": "https://github.com/J-Pierce/Project-Generator#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
